@@ -1,3 +1,7 @@
-body {
-  background: red;
+body{
+  background: grey;
+}
+
+body *{
+  font-family: 'Open Sans', sans-serif;
 }

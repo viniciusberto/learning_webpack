@@ -1,3 +1,3 @@
 export default function printMe() {
-    console.log('Teste');
+    console.log('Teste de Click do Vinícius');
 }
